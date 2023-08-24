@@ -1,4 +1,4 @@
-<img src="https://github.com/opallace/opallace/blob/main/bases_small.gif" width="100%" height="200px">
+<img src="https://github.com/opallace/opallace/blob/main/alice_and_bob.png" width="100%" height="200px">
 
 ### Bem vindos
 
