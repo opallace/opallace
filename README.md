@@ -1,3 +1,5 @@
+<img src="https://github.com/opallace/opallace/blob/main/alice_and_bob.png">
+
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opallace&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
