@@ -1,4 +1,4 @@
-<img src="https://github.com/opallace/opallace/blob/main/vVRGlx.gif">
+<img src="https://github.com/opallace/opallace/blob/main/bases_small.gif">
 
 ### Hi there 👋
 
