@@ -13,7 +13,9 @@
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-fahljfhlahbflhblkhasbkfhalfhklashflçakhklfhbskfhfahljfhlahbflhblkhasbkfhalfhklashflçakhklfhbskfhfahljfhlahbflhblkhasbkfhalfhklashflçakhklfhbskfhfahljfhlahbflhblkhasbkfhalfhklashflçakhklfhbskfh
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=opallace)
+## ⚡ GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=opallace&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opallace&hide=TeX&layout=compact)
 
 
