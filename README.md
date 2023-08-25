@@ -1,4 +1,4 @@
-<img src="https://github.com/opallace/opallace/blob/main/sl_031420_28950_06.jpg" width="100%" height="200px" css="object-fit: contain">
+<img src="https://github.com/opallace/opallace/blob/main/sl_031420_28950_06.jpg" width="100%" height="200px" style="object-fit: contain">
 
 ### Bem vindo!
 
