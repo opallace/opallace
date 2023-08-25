@@ -1,4 +1,4 @@
-<img src="https://github.com/opallace/opallace/blob/main/opala-ss.gif" style="display:block;width:100%;margin:0 auto"/>
+<img src="https://github.com/opallace/opallace/blob/main/opala-ss.gif" style="display:block;width:100%;margin:auto"/>
 
 ### RAAAAAAAAAAAAAAAAAMMMMMM RAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMMMMMMMM 🚗___
 
