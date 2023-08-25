@@ -3,7 +3,7 @@
 ### Bem vindos
 ![](https://komarev.com/ghpvc/?username=opallace)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,c++,php,python,haskell,mysql,linux,latex)](https://skillicons.dev)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opallace&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
