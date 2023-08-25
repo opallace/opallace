@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=opallace)
-<img src="https://github.com/opallace/opallace/blob/main/alice_and_bob.png" width="100%" height="200px">
+<img src="https://github.com/opallace/opallace/blob/main/binary.jpg" width="100%" height="200px">
 ### Bem vindo!
 
 ## Algumas habilidades
