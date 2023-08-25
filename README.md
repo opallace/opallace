@@ -1,6 +1,6 @@
-<img src="https://github.com/opallace/opallace/blob/main/opala-ss.gif" style="width:100%;height:250px;">
+<img src="https://github.com/opallace/opallace/blob/main/opala-ss.gif" >
 
-### Bem vindo!
+### RAAAAAAAAAAAAAAAAAMMMMMM RAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMMMMMMMM 🚗___
 
 ## 🚀 Minhas habilidades
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
