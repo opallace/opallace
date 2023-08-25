@@ -1,4 +1,4 @@
-![](https://github.com/opallace/opallace/blob/main/opala-ss.gif)
+<img src="https://github.com/opallace/opallace/blob/main/opala-ss.gif" width="100%"/>
 
 ### RAAAAAAAAAAAAAAAAAMMMMMM RAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMMMMMMMM 🚗___
 
