@@ -9,12 +9,7 @@
 ![image]({https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white})
 ![image]({https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white})
 ![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
-![image]({ 	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white})
-![image]({})
-![image]({})
-![image]({})
-![image]({})
-![image]({})
+![image]({https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white})
 ![image]({https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white})
 ![image]({https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white})
 
