@@ -3,8 +3,7 @@
 ### Bem vindos
 ![](https://komarev.com/ghpvc/?username=opallace)
 
-
-![image]({https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white})
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image]({https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white})
 ![image]({https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white})
 ![image]({https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white})
